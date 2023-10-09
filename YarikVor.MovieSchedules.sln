@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YarikVor.KinoSchedules", "YarikVor.KinoSchedules\YarikVor.KinoSchedules.csproj", "{361DC353-68B4-45FF-AF35-00A041F69DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YarikVor.MockApi.CinemaSchedules", "YarikVor.MockApi.CinemaSchedules\YarikVor.MockApi.CinemaSchedules.csproj", "{A6F40693-5770-4E38-93D0-C60CCE819A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361DC353-68B4-45FF-AF35-00A041F69DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361DC353-68B4-45FF-AF35-00A041F69DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361DC353-68B4-45FF-AF35-00A041F69DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361DC353-68B4-45FF-AF35-00A041F69DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F40693-5770-4E38-93D0-C60CCE819A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F40693-5770-4E38-93D0-C60CCE819A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F40693-5770-4E38-93D0-C60CCE819A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F40693-5770-4E38-93D0-C60CCE819A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
